@@ -22,12 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- Item 1 php-7.3.8-nts-Win32-VC15-x86
+- Item 2 VC__redist.x86.exe
+- Item 3 rewrite_amd64_en-US.msi
+- Item 4 osTicket-v1.15.8.zip
+- Item 5 mysql-5.5.62-win32.msi
+- Item 6 HeidiSQL_12.3.0.6589_Setup.exe
+  
 <h2>Configuration Steps</h2>
 
 <p>
