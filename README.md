@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,16 +20,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>List of Prerequisites</h2>
 
-- Item 1 php-7.3.8-nts-Win32-VC15-x86
+-  - Item 1 php-7.3.8-nts-Win32-VC15-x86
 - Item 2 VC__redist.x86.exe
 - Item 3 rewrite_amd64_en-US.msi
 - Item 4 osTicket-v1.15.8.zip
 - Item 5 mysql-5.5.62-win32.msi
 - Item 6 HeidiSQL_12.3.0.6589_Setup.exe
-  
-<h2>Configuration Steps</h2>
+
+
+<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
