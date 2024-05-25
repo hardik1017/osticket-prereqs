@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-05-19 214052](https://github.com/hardik1017/osticket-prereqs/assets/170269652/e96c77b9-ac28-4eec-8569-08fac10799d3)
 
 
-OsTicket Recommended Applications
+<h2>OsTicket Recommended Applications<h2>
 
 ![os ticket prerequisites success install](https://github.com/hardik1017/osticket-prereqs/assets/170269652/7c8c4dda-0c61-4bb9-8d94-ea83c48f15cc)
 
