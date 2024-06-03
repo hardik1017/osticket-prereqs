@@ -12,7 +12,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+-  <h2>Microsoft Azure (Virtual Machines/Compute)
+ ![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/4a6602eb-08fb-4579-92db-9effa88e2c6e)
 - Remote Desktop
 - Internet Information Services (IIS)
 
